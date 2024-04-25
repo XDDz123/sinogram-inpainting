@@ -1,2 +1,2 @@
-# sinogram-inpainting
-Reconstructing sinograms with missing data
+# Sinogram Inpainting
+This project reconstructs sinograms with missing data (undersampled or limited angles).
